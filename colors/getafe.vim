@@ -13,7 +13,7 @@
 "         HEX       R   G   B
 " blue    #01B0F0   1   176 240
 " purple  #9187FF   145 135 255
-" pink    #FF358B    255 53  139
+" pink    #FF358B   255 53  139
 " black   #000000   0   0   0
 " brown   #1B1D1E   27  29  30
 " green   #AEEE00   174 238 0
@@ -147,7 +147,7 @@ hi Search          guifg=#F8FFF9   guibg=#FF358B                       ctermfg=1
 hi StatusLine      guifg=#F8FFF9   guibg=#01B0F0    gui=bold           ctermfg=15      ctermbg=39
 hi StatusLineNC    guifg=#F8FFF9   guibg=#5A7085                       ctermfg=15      ctermbg=60
 hi Todo            guifg=#000000   guibg=#FFDC00    gui=bold           ctermfg=0       ctermbg=220
-hi Visual          guifg=#9187FF   guibg=#FF358B                                       ctermbg=60
+hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=60
 hi ModeMsg         guifg=#000000   guibg=#FFDC00                       ctermfg=0       ctermbg=220
 hi SpecialKey      guifg=#5A7085                                       ctermfg=60
 hi ErrorMsg        guifg=#000000   guibg=#FF500E                       ctermfg=0       ctermbg=202
