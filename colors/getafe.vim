@@ -144,7 +144,7 @@ hi IncSearch       guifg=#1B1D1E   guibg=#a7a7a7                       ctermfg=2
 hi LineNr          guifg=#5A7085   guibg=#000000                       ctermfg=60      ctermbg=0
 hi NonText         guifg=#eeeeee   guibg=#1B1D1E                       ctermfg=7       ctermbg=234
 hi Search          guifg=#F8FFF9   guibg=#FF358B                       ctermfg=15      ctermbg=204
-hi StatusLine      guifg=#F8FFF9   guibg=#01B0F0    gui=bold           ctermfg=15      ctermbg=39
+hi StatusLine      guifg=#000000   guibg=#01B0F0    gui=bold           ctermfg=15      ctermbg=39
 hi StatusLineNC    guifg=#F8FFF9   guibg=#5A7085                       ctermfg=15      ctermbg=60
 hi Todo            guifg=#000000   guibg=#FFDC00    gui=bold           ctermfg=0       ctermbg=220
 hi Visual          guifg=#F8FFF9   guibg=#FF358B                                       ctermbg=60
