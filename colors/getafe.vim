@@ -12,13 +12,13 @@
 "	Colors
 "         HEX       R   G   B
 " blue    #01B0F0   1   176 240
-" purple  #9187FF   145 135 255
+" purple  #B994FF   185 150 255
 " pink    #FF358B   255 53  139
 " black   #000000   0   0   0
 " brown   #1B1D1E   27  29  30
 " green   #AEEE00   174 238 0
 " grey    #5A7085   90  112 133
-" orange  #FF500E   255 80  14
+" orange  #FF6E0E   255 100 0
 " yellow  #FFDC00   255 220 0
 " white   #F8FFF9   248 255 249
 " cyan    #69C3FF   198 197 254
@@ -172,11 +172,11 @@ hi PmenuThumb      guifg=#01B0F0                                       ctermfg=3
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
 hi Comment         guifg=#5A7085                                       ctermfg=60
-hi Constant        guifg=#9187FF                                       ctermfg=204
+hi Constant        guifg=#B994FF                                       ctermfg=204
 hi String          guifg=#AEEE00                                       ctermfg=204
-hi Number          guifg=#FF500E                                       ctermfg=202
-hi Boolean         guifg=#FF500E                                       ctermfg=154
-hi Float           guifg=#FF500E                                       ctermfg=138
+hi Number          guifg=#FF6E0E                                       ctermfg=202
+hi Boolean         guifg=#FF6E0E                                       ctermfg=154
+hi Float           guifg=#FF6E0E                                       ctermfg=138
 hi Function        guifg=#01B0F0                                       ctermfg=39
 hi Statement       guifg=#01B0F0                                       ctermfg=39
 hi Conditional     guifg=#69C3FF                                       ctermfg=154
@@ -184,7 +184,7 @@ hi Operator        guifg=#69C3FF                                       ctermfg=2
 hi Keyword         guifg=#69C3FF                                       ctermfg=154
 hi Define          guifg=#69C3FF                                       ctermfg=154
 hi Delimiter       guifg=#69C3FF                                       ctermfg=154
-hi Exception       guifg=#FF500E
-hi Include         guifg=#FF500E
+hi Exception       guifg=#FF6E0E
+hi Include         guifg=#FF6E0E
 
 
