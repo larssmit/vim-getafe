@@ -8,7 +8,7 @@ This colorscheme was inspired by the Molokai color scheme. This is a dark theme 
 Preview
 -------
 
-![Preview](http://i.imgur.com/ZzboZ.png)
+![Preview](http://i.imgur.com/egLXj.png)
 
 Install details
 ---------------
