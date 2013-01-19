@@ -1,6 +1,6 @@
 " Maintainer:   Lars Smit
-" Version:      0.1
-" Last Change:  18 may 2011
+" Version:      1.1
+" Last Change:  19 januari 2013
 " Credits:      Vim color scheme "getafe"
 "
 " Color Scheme Overview:
@@ -22,7 +22,7 @@
 " yellow  #FFDC00   255 220 0
 " white   #F8FFF9   248 255 249
 " cyan    #69C3FF   198 197 254
-
+" red     #FF0000   255 0   0
 
 set background=dark
 
@@ -76,7 +76,6 @@ hi PmenuThumb      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=1
 hi Question        guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi Search          guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi SpecialKey      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
-"hi SpellBad        guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi SpellCap        guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi SpellLocal      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi SpellRare       guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
@@ -87,7 +86,7 @@ hi TabLineFill     guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=1
 hi TabLineSel      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi Title           guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi VisualNOS       guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
-hi WarningMsg      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
+hi WarningMsg      guifg=#FF0000   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi WildMenu        guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
@@ -127,7 +126,7 @@ hi SpecialComment  guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=1
 hi Debug           guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi Underlined      guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi Ignore          guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
-hi Error           guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
+hi Error           guifg=#FF0000   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 hi Todo            guifg=#F8FFF9   guibg=#1B1D1E   gui=none            ctermfg=15      ctermbg=234
 
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
@@ -184,7 +183,7 @@ hi Operator        guifg=#69C3FF                                       ctermfg=2
 hi Keyword         guifg=#69C3FF                                       ctermfg=154
 hi Define          guifg=#69C3FF                                       ctermfg=154
 hi Delimiter       guifg=#69C3FF                                       ctermfg=154
-hi Exception       guifg=#FF6E0E
-hi Include         guifg=#FF6E0E
+hi Exception       guifg=#FF0000
+hi Include         guifg=#FF0000
 
 
