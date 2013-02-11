@@ -187,3 +187,10 @@ hi Exception       guifg=#FF0000
 hi Include         guifg=#FF0000
 
 
+" PHP specific colors
+hi phpStructure    guifg=#69C3FF                                       ctermfg=154
+hi phpRegion       guifg=#AEEE00                                       ctermfg=204
+hi phpStorageClass guifg=#69C3FF
+hi phpRepeat       guifg=#FF6E0E
+hi phpIdentifier   guifg=#F8FFF9
+hi phpMethodsVar   guifg=#69C3FF
